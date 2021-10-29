@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\my_project",
+    "\\my_project\\my_flask_app",
+    "\\my_project\\venv"
+  ],
+  "SelectedNode": "\\my_project\\my_flask_app\\Dockerfile",
+  "PreviewInSolutionExplorer": false
+}
